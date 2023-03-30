@@ -1,0 +1,16 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "Node.js project",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "dev": "NODE_ENV=development nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Yablonev",
+  "license": "ISC",
+  "dependencies": {
+    "coinmarketcap-api": "^3.1.1"
+  }
+}
