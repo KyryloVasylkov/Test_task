@@ -41,6 +41,6 @@ export default defineConfig({
     port: 8777,
   },
   build: {
-    outDir: './docs'
+    outDir: './build'
   }
 })
